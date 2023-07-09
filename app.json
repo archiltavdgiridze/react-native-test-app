@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a39a8920-0898-450d-ae0f-a1b6ce9e0f38"
+      }
+    },
+    "owner": "archiltavdgiridze"
   }
 }
